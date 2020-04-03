@@ -1,0 +1,21 @@
+# Base image Python, R (soon Julia)
+
+The following is a very incomplete list
+
+## Python
+
+**ML:**
+- PyTorch
+- Tensorflow
+- Keras
+- XGBoost
+
+**Geo:**
+- geopandas
+- rasterio
+- gdal
+
+## R
+
+- dplyr
+- raster
